@@ -73,7 +73,7 @@ With the rapid growth of AI-generated content and image editing technologies, it
 TruthLens-AI/
 │
 ├── docs/
-├── mobile_app/
+├── 
 ├── backend/
 ├── ai_models/
 ├── datasets/
@@ -108,7 +108,7 @@ TruthLens-AI/
 - FastAPI Backend Development
 
 ### Phase 7
-- Flutter Android Application
+
 
 ### Phase 8
 - Cloud Deployment
