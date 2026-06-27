@@ -130,7 +130,7 @@ TruthLens-AI/
 
 ## Author
 
-Hariom Tiwari
+Hariom Tiwari!
 
 AIML Student | AI & Computer Vision Enthusiast
 
